@@ -14,12 +14,12 @@
     "deploy": "gatsby build && gh-pages -d public -b main"
   },
   "dependencies": {
-    "@chakra-ui/gatsby-plugin": "^3.0.6",
-    "@chakra-ui/react": "^2.3.7",
+    "@chakra-ui/gatsby-plugin": "^3.0.7",
+    "@chakra-ui/react": "^2.4.2",
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
-    "framer-motion": "^7.6.6",
-    "gatsby": "^5.0.1",
+    "framer-motion": "^7.6.18",
+    "gatsby": "^5.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
