@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-index-js-77f7f15a7820b50bd60f.js","mappings":"wLAEe,SAASA,IACtB,OAAO,2BAAK,qCACd,C","sources":["webpack://cyberbhoi.github.io/./src/pages/index.js"],"sourcesContent":["import * as React from \"react\"\n\nexport default function Home() {\n  return <div>Awesome website is comming soon...</div>\n}\n"],"names":["Home"],"sourceRoot":""}

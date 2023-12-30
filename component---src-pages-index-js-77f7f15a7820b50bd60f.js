@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcyberbhoi_github_io=self.webpackChunkcyberbhoi_github_io||[]).push([[678],{558:function(e,i,n){n.r(i),n.d(i,{default:function(){return u}});var t=n(294);function u(){return t.createElement("div",null,"Awesome website is comming soon...")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-77f7f15a7820b50bd60f.js.map
