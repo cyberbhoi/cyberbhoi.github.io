@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-index-js-c90a0174a64ac5c85a8e.js","mappings":"wLAEe,SAASA,IACtB,OAAO,2BAAK,kCACd,C","sources":["webpack://cyberbhoi.github.io/./src/pages/index.js"],"sourcesContent":["import * as React from \"react\"\n\nexport default function Home() {\n  return <div>Cyberbhoi's Thought in Progress</div>\n}\n"],"names":["Home"],"sourceRoot":""}
