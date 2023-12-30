@@ -1,7 +1,8 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "cyberbhoi.github.io",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "author": "Hemant Bhoi",
+  "description": "A Blog by Hemant Bhoi - a Software/Blockchain developer",
   "version": "0.1.0",
   "license": "0BSD",
   "scripts": {
@@ -10,19 +11,25 @@
     "start": "gatsby develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
+    "deploy": "gatsby build && gh-pages -d public -b main",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
     "gatsby": "^5.13.0",
+    "gatsby-plugin-feed": "^5.13.0",
+    "gatsby-plugin-google-gtag": "^5.13.0",
+    "gatsby-plugin-image": "^3.13.0",
+    "gatsby-plugin-manifest": "^5.13.0",
+    "gatsby-plugin-sharp": "^5.13.0",
+    "gatsby-remark-images": "^7.13.0",
+    "gatsby-remark-prismjs": "^7.13.0",
+    "gatsby-remark-responsive-iframe": "^6.13.0",
+    "gatsby-source-filesystem": "^5.13.0",
+    "gatsby-transformer-remark": "^6.13.0",
+    "gatsby-transformer-sharp": "^5.13.0",
+    "prismjs": "^1.29.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
-  },
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "devDependencies": {
     "gh-pages": "^6.1.1"
